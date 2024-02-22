@@ -4,18 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="337f532d-5ea1-45d4-a3cc-e0e1bd161f9e" name="Changes" comment="naprawa" />
+    <list default="true" id="337f532d-5ea1-45d4-a3cc-e0e1bd161f9e" name="Changes" comment="naprawa">
+      <change afterPath="$PROJECT_DIR$/Aplikacja/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aplikacja/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aplikacja/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aplikacja/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aplikacja/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aplikacja/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aplikacja/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Pyroso&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="16ba576c-638f-4da8-936c-68741f3ba01f" />
+        <option name="url" value="https://github.com/MrFajFel/Blog.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2cPwmKXN5quFUlS8mPJeSSQZUMl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -29,8 +59,9 @@
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/filip/Documents/Szyfr-cezara",
+    "last_opened_file_path": "C:/Users/student/Documents/Fifi3tp/Django/Blog",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,6 +81,7 @@
         <env name="DJANGO_SETTINGS_MODULE" value="djangoProject.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (djangoProject)" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -82,6 +114,11 @@
       <option name="presentableId" value="Default" />
       <updated>1708026680778</updated>
       <workItem from="1708026754067" duration="1189000" />
+      <workItem from="1708591431897" duration="99000" />
+      <workItem from="1708591556647" duration="205000" />
+      <workItem from="1708594825967" duration="72000" />
+      <workItem from="1708600097145" duration="146000" />
+      <workItem from="1708605077276" duration="4715000" />
     </task>
     <task id="LOCAL-00001" summary="naprawa">
       <option name="closed" value="true" />
@@ -108,8 +145,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="naprawa" />
     <option name="LAST_COMMIT_MESSAGE" value="naprawa" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/djangoProject$manage.coverage" NAME="manage Coverage Results" MODIFIED="1708026783160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -7,7 +7,7 @@ from django.utils import timezone
 class Post(models.Model):
     title = models.CharField(max_length=250)
     body = models.TextField()
-    slug = models.SlugField(max_length=250, unique_for_date='published')
+    slug = models.SlugField(max_length=250, unique_for_date='publish')
     publish = models.DateTimeField(default=timezone.now)
     created = models.DateTimeField(auto_now_add=True)
     updated = models.DateTimeField(auto_now=True)
@@ -26,3 +26,5 @@ class Post(models.Model):
 
     def __str__(self):
         return self.title
+
+# python manage.py rumserver
