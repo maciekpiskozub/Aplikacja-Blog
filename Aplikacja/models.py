@@ -27,4 +27,4 @@ class Post(models.Model):
     def __str__(self):
         return self.title
 
-# python manage.py rumserver
+# python manage.py runserver
