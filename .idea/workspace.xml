@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="337f532d-5ea1-45d4-a3cc-e0e1bd161f9e" name="Changes" comment="naprawa2">
-      <change beforePath="$PROJECT_DIR$/Aplikacja/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aplikacja/templates/blog/base.html" afterDir="false" />
-    </list>
+    <list default="true" id="337f532d-5ea1-45d4-a3cc-e0e1bd161f9e" name="Changes" comment="naprawa2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +115,7 @@
       <workItem from="1709197354332" duration="63000" />
       <workItem from="1709210248089" duration="69000" />
       <workItem from="1709210324592" duration="2041000" />
-      <workItem from="1709212381634" duration="1886000" />
+      <workItem from="1709212381634" duration="2335000" />
     </task>
     <task id="LOCAL-00001" summary="naprawa">
       <option name="closed" value="true" />
@@ -159,7 +157,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709214025964</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="naprawa2">
+      <option name="closed" value="true" />
+      <created>1709214448233</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709214448233</updated>
+    </task>
+    <task id="LOCAL-00007" summary="naprawa2">
+      <option name="closed" value="true" />
+      <created>1709214532249</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709214532249</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
