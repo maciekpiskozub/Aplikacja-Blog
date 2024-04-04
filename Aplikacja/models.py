@@ -1,5 +1,6 @@
 from django.contrib.auth.models import User
 from django.db import models
+from django.urls import reverse
 from django.utils import timezone
 
 
@@ -19,6 +20,14 @@ class Post(models.Model):
     }
 
     status = models.CharField(max_length=10, choices=STATUS_CHOICES, default='draft')
+
+
+    def get_absolute_url(self):
+        return reverse("Aplikacja:post_detail",
+                       args=[self.publish.year,
+                             self.publish.month,
+                             self.publish.day,
+                             self.slug])
 
 
     class Meta:

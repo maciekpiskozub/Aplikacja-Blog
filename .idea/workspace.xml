@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="337f532d-5ea1-45d4-a3cc-e0e1bd161f9e" name="Changes" comment="naprawa2">
+    <list default="true" id="337f532d-5ea1-45d4-a3cc-e0e1bd161f9e" name="Changes" comment="naprawa22">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aplikacja/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aplikacja/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aplikacja/templates/blog/post/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aplikacja/templates/blog/post/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,9 +79,8 @@
         <env name="DJANGO_SETTINGS_MODULE" value="djangoProject.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (djangoProject)" />
       <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="launchJavascriptDebuger" value="false" />
@@ -122,6 +124,7 @@
       <workItem from="1709815093467" duration="755000" />
       <workItem from="1710419910109" duration="4674000" />
       <workItem from="1712218805884" duration="41000" />
+      <workItem from="1712230543481" duration="1152000" />
     </task>
     <task id="LOCAL-00001" summary="naprawa">
       <option name="closed" value="true" />
@@ -195,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710425185737</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="naprawa22">
+      <option name="closed" value="true" />
+      <created>1712230591070</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712230591070</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +215,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="naprawa" />
     <MESSAGE value="naprawa2" />
-    <option name="LAST_COMMIT_MESSAGE" value="naprawa2" />
+    <MESSAGE value="naprawa22" />
+    <option name="LAST_COMMIT_MESSAGE" value="naprawa22" />
   </component>
 </project>
