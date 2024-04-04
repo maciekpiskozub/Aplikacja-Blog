@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="337f532d-5ea1-45d4-a3cc-e0e1bd161f9e" name="Changes" comment="naprawa22">
+      <change afterPath="$PROJECT_DIR$/Aplikacja/templates/blog/pagination.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aplikacja/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aplikacja/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aplikacja/templates/blog/post/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aplikacja/templates/blog/post/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aplikacja/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aplikacja/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +124,7 @@
       <workItem from="1709815093467" duration="755000" />
       <workItem from="1710419910109" duration="4674000" />
       <workItem from="1712218805884" duration="41000" />
-      <workItem from="1712230543481" duration="1152000" />
+      <workItem from="1712230543481" duration="4188000" />
     </task>
     <task id="LOCAL-00001" summary="naprawa">
       <option name="closed" value="true" />
@@ -206,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712230591070</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="naprawa22">
+      <option name="closed" value="true" />
+      <created>1712233795888</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712233795888</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,5 +225,15 @@
     <MESSAGE value="naprawa2" />
     <MESSAGE value="naprawa22" />
     <option name="LAST_COMMIT_MESSAGE" value="naprawa22" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Aplikacja/urls.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
