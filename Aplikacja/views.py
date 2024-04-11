@@ -4,7 +4,8 @@ from django.http import HttpResponse
 from django.shortcuts import render, get_object_or_404
 from django.views.generic import ListView
 
-from Aplikacja.models import Post
+from Aplikacja.forms import CommentForm
+from Aplikacja.models import Post, Comment
 
 """
 def post_list(request):
@@ -27,7 +28,19 @@ def post_detail(request, year, month, day, slug):
                              publish__year=year,
                              publish__month=month,
                              publish__day=day)
+    comments = Comment.objects.filter(active = True)
+
+    if request.method == 'POST':
+        comment_form = CommentForm(request.POST)
+        if comment_form.is_valid():
+            new_comment = comment_form.save(commit=False)
+            new_comment.post = post
+            new_comment.save()
+    else:
+        comment_form = CommentForm()
+
     return render(request, "blog/post/detail.html",
-                  {'post': post})
+                  {'post': post, 'comments':comments,
+                   'comment_form':comment_form})
 
 # Create your views here.

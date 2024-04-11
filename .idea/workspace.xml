@@ -5,21 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="337f532d-5ea1-45d4-a3cc-e0e1bd161f9e" name="Changes" comment="naprawa22">
-      <change afterPath="$PROJECT_DIR$/Aplikacja/templates/blog/pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aplikacja/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/djangoProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/djangoProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aplikacja/templates/blog/post/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aplikacja/templates/blog/post/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aplikacja/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aplikacja/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aplikacja/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aplikacja/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aplikacja/static/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/Aplikacja/static/css/blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aplikacja/templates/blog/post/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aplikacja/templates/blog/post/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aplikacja/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aplikacja/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -125,6 +134,7 @@
       <workItem from="1710419910109" duration="4674000" />
       <workItem from="1712218805884" duration="41000" />
       <workItem from="1712230543481" duration="4188000" />
+      <workItem from="1712835568774" duration="4054000" />
     </task>
     <task id="LOCAL-00001" summary="naprawa">
       <option name="closed" value="true" />
